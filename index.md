@@ -14,7 +14,7 @@
 ---
 
 
-**img50kb.jpg**
+**img50kb_copy.jpg**
 
 ![img50kb_copy.jpg](/img50kb.jpg)
 
