@@ -1,3 +1,3 @@
 ## Welcome to GitHub Test Image
 
-![](/image_dummy_120_150.jpg)
+![](/img1.jpg)
